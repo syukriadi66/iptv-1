@@ -180,17 +180,17 @@ http://203.153.218.28:9981/stream/channelid/1092664456?ticket=21BD9A34DD072D2459
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=61ECE32328125B40097870241BD99B4D3EBD89BF&profile=pass
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",History Channel
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",History
+https://cdnkbl2.useetv.com:443/joss/15/history/chunklist_w560604655_b684100_sleng.m3u8?enc=FQ8xQrt6MqzVZWt-tjfHDg&exp=1593421594
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",NAT GEO Wild
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+https://cdnkbl2.useetv.com:443/joss/15/natgeowild/chunklist_w993759665_b684100_sleng.m3u8?enc=ianGozJMR4R8hGGVjasWOQ&exp=1593421531
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",National Geographic
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+https://cdnkbl2.useetv.com:443/joss/15/natgeo/chunklist_w576935625_b684100_sleng.m3u8?enc=8icD0vRnYmU79wjXIMSC1Q&exp=1593421555
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KNOWLEDGE",TECHSTORM
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
@@ -298,6 +298,9 @@ http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",THRILL
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",WARNER TV
+https://cdnkbl2.useetv.com:443/joss/15/warner/chunklist_w1502810726_b684100_sleng.m3u8?enc=K1wj35SGVX-wmqvsuqm5TQ&exp=1593421798
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",ZEE BIOSKOP
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
