@@ -311,9 +311,6 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC",Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",AXN
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",BLUE ANT ENTERTAIMENT
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
@@ -419,10 +416,10 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",PTV Sports 1
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",EPL 1
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",PTV Sports 2
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS"EPL 2
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",MOTO GP
@@ -445,18 +442,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 3
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD " tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="SPORTS",MAX SPORT 1
-https://cdn209.bggledai.xyz/hls/hd-max-sport-1-hd.m3u8?e=1593554472&hash=ir7qkjfJ-hHMEJw1jVEPKA
-
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD " tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="SPORTS",MAX SPORT 2
-https://cdn209.bggledai.xyz/hls/hd-max-sport-2-hd.m3u8?e=1593554472&hash=ir7qkjfJ-hHMEJw1jVEPKA
-
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD " tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="SPORTS",MAX SPORT 3
-https://cdn209.bggledai.xyz/hls/hd-max-sport-3-hd.m3u8?e=1593554472&hash=ir7qkjfJ-hHMEJw1jVEPKA
-
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD " tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="SPORTS",MAX SPORT 4
-https://cdn209.bggledai.xyz/hls/hd-max-sport-4-hd.m3u8?e=1593554472&hash=ir7qkjfJ-hHMEJw1jVEPKA
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS",SONY SIX
 https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
