@@ -158,6 +158,12 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",DISNEY CHANNEL
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",POGO
+http://202.163.117.6:9981/stream/channelid/872564616
+
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",EGG NETWORK
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
